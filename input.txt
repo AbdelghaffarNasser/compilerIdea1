@@ -1,5 +1,0 @@
-/^This is main function 
-Imw$decrease(){
-Imw$num3=5.
-Reiterate (counter<num){
-reg3=reg3-1.} }
